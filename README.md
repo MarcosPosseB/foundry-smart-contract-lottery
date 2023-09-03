@@ -11,3 +11,5 @@ This smart contract is designed to create a transparent and provably random lott
 4. Chainlink Automation: Triggers the lottery drawing based on a predefined time schedule, enhancing the efficiency and reliability of the lottery process.
 
 5. By leveraging these technologies, we create a robust and verifiable system that guarantees a fair and exciting lottery experience for all participants.
+
+# Thank you!
